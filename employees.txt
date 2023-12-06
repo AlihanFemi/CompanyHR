@@ -1,0 +1,7 @@
+1|Tom|Davis|1980|security|1000|English
+2|Peter|Petrov|1980|developer|3000|1500|English,Russian|C#,Python,Java,C
+3|Naali|Shacf|1998|developer|5000|1000|English,Spanish,Latin|JavaScript,HTML,CSS
+4|George|Helder|1955|director|2000|1000|English,German|1,
+5|Neil|Tyson|1995|team lead|3000|1000|English,Latin|2,
+6|Vesso|Zaimov|1995|team lead|2000|1500|English,Bulgarian|
+7|Jack|Doe|1989|CEO|5000|3000|English,Spanish|

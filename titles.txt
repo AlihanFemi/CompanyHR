@@ -1,0 +1,11 @@
+﻿accountant
+driver
+cleaner
+security
+director
+developer
+team lead
+R&D manager
+CEO
+secretary
+project manager
